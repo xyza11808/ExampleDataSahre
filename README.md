@@ -1,2 +1,2 @@
 # ExampleDataSahre
-Sharing data storage
+Shared data storage
